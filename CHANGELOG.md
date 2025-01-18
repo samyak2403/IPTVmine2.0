@@ -2,24 +2,9 @@
 
 All notable changes to this project will be documented in this file.
 
-## [1.0.8] - 2025-01-09  
+## [1.0.0] - 2025-01-18 
 ### Added  
-- Updated **UI design** for a modern and user-friendly experience.  
-- **Fast Channel data handling** to improve Channel speed and reliability.  
-
-### Fixed  
-- Resolved minor bugs affecting channel loading and playback.  
-- Fixed crashes occurring during user session management.  
-- Improved overall stability and performance of the app.  
-
-### Changed  
-- Enhanced search and filtering to respond faster to user queries.  
-- Redesigned **HomeFragment** for better usability and navigation flow.  
-- Updated **PlayerFragment** to support smoother transitions between channels.  
-
-## [1.0.0] - 2024-09-15  
-### Added  
-- Initial release of **IPTV Mine** with M3U playlist support.  
+- Initial release of **IPTV Mine2.0** with M3U playlist support.  
 - **ChannelsProvider ViewModel** to fetch, parse, and filter channels based on user queries.  
 - **Search Feature** with a debounce mechanism for better filtering.  
 - Integrated **ExoPlayer** for seamless video streaming.  
