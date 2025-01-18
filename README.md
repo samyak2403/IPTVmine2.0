@@ -7,7 +7,7 @@
 
 
 
-[![Latest release](https://img.shields.io/github/v/release/samyak2403/IPTVmine2.O?include_prereleases)](https://github.com/samyak2403/IPTVmine2.O/releases)
+[![Latest release](https://img.shields.io/github/v/release/samyak2403/IPTVmine2.0?include_prereleases)](https://github.com/samyak2403/IPTVmine2.0/releases)
 ## 📲 Download the APK:
 # Indian IPTVmine App
 
